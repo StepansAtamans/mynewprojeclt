@@ -1,0 +1,2 @@
+# mynewprojeclt
+ai projeckt
